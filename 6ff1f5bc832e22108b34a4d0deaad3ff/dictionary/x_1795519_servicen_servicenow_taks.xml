@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1ecac40d832a62108b34a4d0deaad3ea" extends="task" label="Servicenow Tasks" max_length="40" name="x_1795519_servicen_servicenow_taks" type="collection">
+        <element label="Planned Start Date" max_length="40" name="planned_start_date" type="glide_date_time"/>
+        <element label="Actual End Date" max_length="40" name="actual_end_date" type="glide_date_time"/>
+        <element label="Course" max_length="32" name="course" reference="x_1795519_servicen_servicenow_courses" type="reference"/>
+        <element label="Planned End Date" max_length="40" name="planned_end_date" type="glide_date_time"/>
+        <element label="Actual Start Date" max_length="40" name="actual_start_date" type="glide_date_time"/>
+        <element label="Task Co-ordinator" max_length="32" name="task_co_ordinator" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="task_co_ordinator" label="Task Co-ordinator" language="en" table="x_1795519_servicen_servicenow_taks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>task_co_ordinator</element>
+            <help/>
+            <hint/>
+            <label>Task Co-ordinator</label>
+            <language>en</language>
+            <name>x_1795519_servicen_servicenow_taks</name>
+            <plural>Task Co-ordinators</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-03 06:59:51</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Task Co-ordinator</sys_name>
+            <sys_package display_value="ServiceNow" source="x_1795519_servicen">6ff1f5bc832e22108b34a4d0deaad3ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ServiceNow">6ff1f5bc832e22108b34a4d0deaad3ff</sys_scope>
+            <sys_update_name>sys_documentation_x_1795519_servicen_servicenow_taks_task_co_ordinator_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-03 06:59:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
